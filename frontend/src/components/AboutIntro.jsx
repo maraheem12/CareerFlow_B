@@ -7,6 +7,7 @@ const AboutIntro = () => {
     <div className="bg-white w-full max-w-6xl mx-auto px-4 py-12 sm:px-6 sm:py-16 lg:px-12 lg:py-20 rounded-xl sm:flex sm:justify-start sm:items-start">
       <div className="max-w-2xl space-y-8">
         <div className="flex"> 
+          
           <h1 className=" font-bold leading-tight md:text-6xl">
             Effortless Job Searchs & Career Growth
           </h1>
